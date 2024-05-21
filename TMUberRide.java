@@ -1,4 +1,4 @@
-//alex clouthier 501249820
+
 /*
  * 
  * This class simulates an ride service for a simple Uber app

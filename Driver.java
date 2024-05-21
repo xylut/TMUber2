@@ -1,4 +1,4 @@
-//alex clouthier 501249820
+
 /*
  * 
  * This class simulates a car driver in a simple uber app 

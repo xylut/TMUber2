@@ -1,4 +1,4 @@
-//alex clouthier 501249820
+
 import java.util.Arrays;
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-//alex clouthier 501249820
+
 /*
  * 
  * This class simulates a food delivery service for a simple Uber app
