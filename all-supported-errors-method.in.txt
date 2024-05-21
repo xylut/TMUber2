@@ -1,0 +1,83 @@
+reguser
+
+21 1st street
+0
+reguser
+alex
+21 1 street
+0
+reguser
+alex
+21 1st street
+-1
+reguser
+alex
+21 1st street
+0
+reguser
+alex
+21 1st street
+0
+regdriver
+
+a
+a
+regdriver
+a
+
+a
+regdriver
+a
+a
+
+regdriver
+tom
+wow
+wowie
+regdriver
+tom
+wow
+wowie
+reqride
+1
+21 1st street
+23 2nd street
+reqride
+9007
+21 1st street
+24 3rd street
+reqride
+9007
+34 2nd street
+75 6th street
+reqride
+9009
+21 1st street
+21 1st street
+reqride
+9004
+1
+2
+reqride
+90010
+12 1st street
+24 6th street
+reqxl
+9008
+21 1st street
+21 3rd street
+10
+reqdlvy
+9001
+21 1st avenue
+23 2nd street
+A&W
+12
+reqdlvy
+9001
+21 1st avenue
+23 2nd street
+A&W
+12
+cancelreq
+100
